@@ -1,0 +1,3 @@
+python-dotenv~=0.21.0
+pyowm~=3.3.0
+PyQt5
